@@ -10,7 +10,7 @@ This project is an implementation of a database system for a large franchised re
 
 
 
-Run the files from the DataBase folder as root directory):
+Run the files from the DataBase folder as root directory:
 
 ```
 python3 -m venv .venv
