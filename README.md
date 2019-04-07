@@ -27,7 +27,6 @@ python3 query_data.py
 - create.py: imports all packages, establishes database connection and creates tables
 - insert_data.py: inserts data into static and dynamic tables
 - query_data.py: queries data according to specific questions
-- clean_up.py: closes the session and drops all data
 - requirements.txt: loads all requirements
 - CS162, Assignment 3.ipynb: jupyter notebook
 
